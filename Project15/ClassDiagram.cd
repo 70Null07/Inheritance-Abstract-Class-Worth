@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Worth">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIEEAEA=</HashCode>
+      <FileName>Worth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gold">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEEIEE=</HashCode>
+      <FileName>Worth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stock">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAIAAAgAAAAAAAAgAAAgAAAAAAAAAEEAEA=</HashCode>
+      <FileName>Worth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safe">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEIAAAAAAAAAAEAAAAAAAAAQAAAACAAAAAAgEAUA=</HashCode>
+      <FileName>Worth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
