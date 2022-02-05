@@ -41,7 +41,6 @@ private:
     int amount;
     string issuer_name;
 public:
-
     Stock();
     Stock(const Stock& obj);
 
