@@ -8,7 +8,6 @@ class Worth
 protected:
     double value;
 public:
-
     virtual double conversion_to_rubbles() const = 0;
     virtual ~Worth() {};
 
